@@ -21,11 +21,11 @@ There are two sections in this tab:
 Libraries created by the user 
 #### HSK libraries
 Standard HSK libraries containing words as following:
-HSK 1 - 150 words
-HSK 2 - 150 words
-HSK 3 - 300 words
-HSK 4 - 600 words
-HSK 5 - 1300 words
+HSK 1 - 150 words\n
+HSK 2 - 150 words\n
+HSK 3 - 300 words\n
+HSK 4 - 600 words\n
+HSK 5 - 1300 words\n
 For each library an label with three numbers (blue, red, green) presents the library's status as following:
 blue - the number of words that are unknown
 red - the number of words that are added to a personal library
