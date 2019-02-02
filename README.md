@@ -51,11 +51,22 @@ Each word from the above collection has the following options:
 
 In this section the user can practice the words from libraries.
 Firstly the user have to select the libraries for practice (at least on) and hit the "Play" button
-There are 4 ways to practice words:
+There are 2 ways to practice:(if it's posible the system will try to prepare 10 tasks for practice, 5 tasks of each type):
 #### Translating a sentence from Chinese to English or vice versa
 The use has a bunch of words to create the corect translation for the given sentence, the selection of a word is made through a "swipe up" tauch on that word, the withdrawing of a word is made through a "swipe down" touch in that word. The position of the selected words can be changed through "drag & drop". 
 #### Translating a word from Chinese to English or vice versa
 For each word the user has 4 options, only one of them being the corect answer
+When the user hit the "Check" button can appear 2 situations:
+The answer is corect 
+The answer is wrong, hence the user has 3 option:
+- Retry: 
+- Skip
+- Corect answer
+#### Scoring
+- Corect answer: 100 points
+- Wrong answer: -50 points
+- Withdrawing of a word after it was selected: -10 points
+
 ### Search
 
 What things you need to install the software and how to install them
