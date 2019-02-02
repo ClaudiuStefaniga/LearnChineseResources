@@ -36,6 +36,7 @@ For each library an label with three numbers (blue, red, green) presents the lib
 #### Words collection
 Each library (personal library or HSK) presents words in a collection that follows the colors code presented bellow
 The collection can be filtered () or sorted () by diferent criteria
+
 #### Word's details
 Each word from the above collection has the following options:
 - the word in hanzi and pinyin format
