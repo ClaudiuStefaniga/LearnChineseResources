@@ -21,16 +21,18 @@ There are two sections in this tab:
 Libraries created by the user 
 #### HSK libraries
 Standard HSK libraries containing words as following:
-HSK 1 - 150 words\n
-HSK 2 - 150 words\n
-HSK 3 - 300 words\n
-HSK 4 - 600 words\n
-HSK 5 - 1300 words\n
+- HSK 1 - 150 words
+- HSK 2 - 150 words
+- HSK 3 - 300 words
+- HSK 4 - 600 words
+- HSK 5 - 1300 words
+
 For each library an label with three numbers (blue, red, green) presents the library's status as following:
-blue - the number of words that are unknown
-red - the number of words that are added to a personal library
-green - the number of words that are marked by the user as "knwon" or "memorized"
-// poza
+- blue - the number of words that are unknown
+- red - the number of words that are added to a personal library
+- green - the number of words that are marked by the user as "knwon" or "memorized"
+
+<img src="https://github.com/sorin360/HSKs/blob/master/library.png" alt="alt text" width="500">
 #### Words collection
 Each library (personal library or HSK) presents words in a collection that follows the colors code presented bellow
 The collection can be filtered () or sorted () by diferent criteria
