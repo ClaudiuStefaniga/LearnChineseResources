@@ -33,7 +33,9 @@ For each library an label with three numbers (blue, red, green) presents the lib
 - green - the number of words that are marked by the user as "knwon" or "memorized"
 
 <img src="https://github.com/sorin360/HSKs/blob/master/library.png" alt="alt text" width="500">
+
 #### Words collection
+
 Each library (personal library or HSK) presents words in a collection that follows the colors code presented bellow
 The collection can be filtered () or sorted () by diferent criteria
 
