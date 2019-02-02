@@ -47,10 +47,14 @@ Each word from the above collection has the following options:
 - "Add to libbrary" and "Remove from library" buttons allows the user to add/remove a word from library, as well as creating a new library
 - "I know it" and "I don't know it" buttons allows the user to mark a word as known/unknown
 
+
+<img src="https://github.com/sorin360/HSKs/blob/master/detail.png" alt="alt text" width="500">
 ### Practice
 
 In this section the user can practice the words from libraries.
 Firstly the user have to select the libraries for practice (at least on) and hit the "Play" button.
+
+<img src="https://github.com/sorin360/HSKs/blob/master/practice.png" alt="alt text" width="500">
 There are 2 ways to practice:(if it's posible the system will try to prepare 10 tasks for practice, 5 tasks of each type):
 #### Translating a sentence from Chinese to English or vice versa
 The use has a bunch of words to create the corect translation for the given sentence, the selection of a word is made through a "swipe up" tauch on that word, the withdrawing of a word is made through a "swipe down" touch in that word. The position of the selected words can be changed through "drag & drop". 
@@ -67,9 +71,11 @@ When the user hit the "Check" button can appear 2 situations:
 - Corect answer: 100 points
 - Wrong answer: -50 points
 - Withdrawing of a word after it was selected: -10 points
+#### Mistakes
+The "life status" is marked by 4 stars, the user can make maximum 3 mistakes, after the fourth mistake the practice session will be ended. 
 
+<img src="https://github.com/sorin360/HSKs/blob/master/play.png" alt="alt text" width="500">
 ### Search
-
-What things you need to install the software and how to install them
+Words can be searched either in Chinese or in English, the app detecting the language that is typed in the search box.
 
 
