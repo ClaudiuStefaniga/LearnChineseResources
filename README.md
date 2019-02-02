@@ -16,7 +16,7 @@ Everyday is presented a new word that is chosen randomly from the entire words d
 <img src="https://github.com/sorin360/HSKs/blob/master/home.png" alt="alt text" width="500">
 
 ### Library
-There are two sections in this tab:
+There are two sections on this tab:
 #### My libraries
 Libraries created by the user 
 #### HSK libraries
@@ -49,8 +49,13 @@ Each word from the above collection has the following options:
 
 ### Practice
 
-What things you need to install the software and how to install them
-
+In this section the user can practice the words from libraries.
+Firstly the user have to select the libraries for practice (at least on) and hit the "Play" button
+There are 4 ways to practice words:
+#### Translating a sentence from Chinese to English or vice versa
+The use has a bunch of words to create the corect translation for the given sentence, the selection of a word is made through a "swipe up" tauch on that word, the withdrawing of a word is made through a "swipe down" touch in that word. The position of the selected words can be changed through "drag & drop". 
+#### Translating a word from Chinese to English or vice versa
+For each word the user has 4 options, only one of them being the corect answer
 ### Search
 
 What things you need to install the software and how to install them
