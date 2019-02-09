@@ -1,6 +1,6 @@
 # LearnChinese
 
-Learn Chinese App is based on first 2500+ most used chinese words (HSK 5) and 1000+ sentences to practice your skills.
+Learn Chinese App is based on first 2500 most used chinese words (HSK 5) and 2000+ sentences to practice your Chinese.
 
 ## 4 main sections
 
